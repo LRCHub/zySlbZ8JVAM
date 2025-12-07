@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "心という名の不可解",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T15:43:11.397300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心という名の不可解",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_心という名の不可解_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心という名の不可解 - KokoroToIuNaNoFukakai",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_心という名の不可解_-_KokoroToIuNaNoFukakai_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心という名の不可解 (\"Kokoro to iu Na no Fukakai\")",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_心という名の不可解_(_Kokoro_to_iu_Na_no_Fukakai_)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【Ado】心という名の不可解",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_【Ado】心という名の不可解_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kokoro Tolu na no Fukakai (心という名の不可解)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_Kokoro_Tolu_na_no_Fukakai_(心という名の不可解)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心という名の不可解",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_心という名の不可解_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心という名の不可解",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_心という名の不可解_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心という名の不可解",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_心という名の不可解_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心という名の不可解 (The Mysterious Name of the Heart)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_心という名の不可解_(The_Mysterious_Name_of_the_Heart)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心という名の不可解",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_心という名の不可解_Ado.txt"
+    }
+  ]
+}
